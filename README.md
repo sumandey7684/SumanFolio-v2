@@ -18,7 +18,7 @@ Welcome to my revamped personal portfolio! This website highlights my journey as
 - Netlify for hosting 🌍
 
 ### Live Demo 🌐
-Explore my portfolio: [sumandey.netlify.app](https://sumandey.netlify.app/) 💻
+Explore my portfolio: [sumandey.netlify.app](https://sumanfolio.vercel.app/) 💻
 
 ### Getting Started 🚀
 
